@@ -2,7 +2,7 @@
 
 A machine learning model deployed as a production-ready REST API using **FastAPI** and **Docker**.
 
-> **Live Demo:** [your-render-url.onrender.com/docs](https://your-render-url.onrender.com/docs)  
+> > **Live Demo:** [housing-price-api-9tt8.onrender.com/docs](https://housing-price-api-9tt8.onrender.com/docs) 
 > *(Free tier — may take ~30 seconds to wake on first visit)*
 
 ---
