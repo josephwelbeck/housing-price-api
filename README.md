@@ -10,13 +10,14 @@ A machine learning model deployed as a production-ready REST API using **FastAPI
 ## Screenshots
 
 ### Interactive Landing Page
-![Landing page](screenshots/landing-page.png)
+![Landing page](Screenshots/landing-page.png)
 
 ### Making a Prediction
-![Predict request](screenshots/predict-request.png)
+![Predict request](Screenshots/predict-request.png)
 
 ### Live Prediction Result
-![Predict response](screenshots/predict-response.png)
+![Predict response](Screenshots/predict-response.png)
+
 ---
 
 ## What This Project Does
@@ -108,7 +109,7 @@ Response:
     ├── requirements.txt  # Python dependencies
     ├── Dockerfile        # Container definition
     ├── .dockerignore     # Files excluded from Docker build
-    └── screenshots/      # README screenshots
+    └── Screenshots/      # README screenshots
 
 ---
 
@@ -121,3 +122,14 @@ Response:
 - How to deploy a containerized service to a cloud platform
 - How to serve a user-friendly HTML frontend directly from a FastAPI app
 
+---
+
+## Part of My AI Engineering Portfolio
+
+| Project | Description |
+|---------|-------------|
+| Dockerized AI Agent | Hugging Face Transformers, distilgpt2, Docker |
+| Local LLM App | Locally running large language model |
+| Multi-document RAG System | Retrieval-augmented generation pipeline |
+| Multi-agent System | LangGraph-based multi-agent orchestration |
+| **ML Model REST API (this project)** | **FastAPI + Docker + live web interface** |
