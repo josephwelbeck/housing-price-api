@@ -10,14 +10,13 @@ A machine learning model deployed as a production-ready REST API using **FastAPI
 ## Screenshots
 
 ### Interactive Landing Page
-![Landing page](screenshots/Housing calc.png)
+![Landing page](screenshots/landing-page.png)
 
 ### Making a Prediction
 ![Predict request](screenshots/predict-request.png)
 
 ### Live Prediction Result
 ![Predict response](screenshots/predict-response.png)
-
 ---
 
 ## What This Project Does
