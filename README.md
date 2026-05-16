@@ -10,13 +10,13 @@ A machine learning model deployed as a production-ready REST API using **FastAPI
 ## Screenshots
 
 ### Interactive Landing Page
-![Landing page](Screenshots/landing-page.png)
+![Landing page](landing-page.png)
 
 ### Making a Prediction
-![Predict request](Screenshots/predict-request.png)
+![Predict request](predict-request.png)
 
 ### Live Prediction Result
-![Predict response](Screenshots/predict-response.png)
+![Predict response](predict-response.png)
 
 ---
 
